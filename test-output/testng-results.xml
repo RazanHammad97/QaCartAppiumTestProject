@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-02-06T13:15:23 EET" name="To Do Qart Applicattion Tests Suite" finished-at="2022-02-06T13:15:42 EET" duration-ms="18449">
+    <groups>
+    </groups>
+    <test started-at="2022-02-06T13:15:23 EET" name="E2E Test" finished-at="2022-02-06T13:15:42 EET" duration-ms="18449">
+      <class name="com.qacart.base.Base">
+        <test-method signature="beforeClass(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.qacart.base.Base@18d87d80]" started-at="2022-02-06T13:15:23 EET" name="beforeClass" finished-at="2022-02-06T13:15:42 EET" duration-ms="18387" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Android]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Razan]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+      </class> <!-- com.qacart.base.Base -->
+    </test> <!-- E2E Test -->
+  </suite> <!-- To Do Qart Applicattion Tests Suite -->
+</testng-results>

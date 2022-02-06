@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [To Do Qart Applicattion Tests Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="E2E Test(failed)">
+    <parameter name="deviceVersion" value="10"/>
+    <parameter name="platformName" value="Android"/>
+    <parameter name="deviceName" value="Razan"/>
+    <classes>
+      <class name="com.qacart.base.Base">
+        <methods>
+          <include name="beforeClass"/>
+        </methods>
+      </class> <!-- com.qacart.base.Base -->
+    </classes>
+  </test> <!-- E2E Test(failed) -->
+</suite> <!-- Failed suite [To Do Qart Applicattion Tests Suite] -->
